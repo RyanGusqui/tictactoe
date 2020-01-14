@@ -1,10 +1,10 @@
 let count = 0;
+let player="x";
 
+function switchPlayer(person){
 
-
-
-
-
+    if(player = something);
+};
 
 $("#button1").click(function() {
     performLogic("#button1","#tile1");
